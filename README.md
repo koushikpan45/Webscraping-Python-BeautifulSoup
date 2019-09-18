@@ -1,2 +1,2 @@
 # Web-Scraping-Python-BeautifulSoup
-Web scraping from IMBD birthday celebrities
+Web scraping from IMBD birthdays of celebrities
